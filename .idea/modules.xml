@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-bean/lisongtao-bean.iml" filepath="$PROJECT_DIR$/lisongtao-bean/lisongtao-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-common-util/lisongtao-common-util.iml" filepath="$PROJECT_DIR$/lisongtao-common-util/lisongtao-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-interface/lisongtao-interface.iml" filepath="$PROJECT_DIR$/lisongtao-interface/lisongtao-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-manage-service/lisongtao-manage-service.iml" filepath="$PROJECT_DIR$/lisongtao-manage-service/lisongtao-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-manage-web/lisongtao-manage-web.iml" filepath="$PROJECT_DIR$/lisongtao-manage-web/lisongtao-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-order-web/lisongtao-order-web.iml" filepath="$PROJECT_DIR$/lisongtao-order-web/lisongtao-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-parent/lisongtao-parent.iml" filepath="$PROJECT_DIR$/lisongtao-parent/lisongtao-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-service-util/lisongtao-service-util.iml" filepath="$PROJECT_DIR$/lisongtao-service-util/lisongtao-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-usermanage/lisongtao-usermanage.iml" filepath="$PROJECT_DIR$/lisongtao-usermanage/lisongtao-usermanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisongtao-web-util/lisongtao-web-util.iml" filepath="$PROJECT_DIR$/lisongtao-web-util/lisongtao-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project1231.iml" filepath="$PROJECT_DIR$/.idea/project1231.iml" />
+    </modules>
+  </component>
+</project>

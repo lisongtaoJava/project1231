@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>lisongtao-parent</artifactId>
+        <groupId>com.atlisongtao.project1231</groupId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../lisongtao-parent/pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>lisongtao-web-util</artifactId>
+<dependencies>
+    <dependency>
+        <groupId>com.atlisongtao.project1231</groupId>
+        <artifactId>lisongtao-common-util</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-thymeleaf</artifactId>
+    </dependency>
+
+    <!--松校验jar-->
+
+    <!--NekoHTML 是一个简单地HTML扫描器和标签补偿器(tag balancer) ,
+    使得程序能解析HTML文档并用标准的XML接口来访问其中的信息。
+    这个解析器能投扫描HTML文件并“修正”许多作者（人或机器）在编写HTML文档过程中常犯的错误。
+    NekoHTML 能增补缺失的父元素、自动用结束标签关闭相应的元素，以及不匹配的内嵌元素标签。-->
+    <dependency>
+        <groupId>net.sourceforge.nekohtml</groupId>
+        <artifactId>nekohtml</artifactId>
+        <version>${nekohtml.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>xml-apis</groupId>
+        <artifactId>xml-apis</artifactId>
+        <version>${xml-apis.version}</version>
+    </dependency>
+    <!--batik的用途通过Batik，你可以在任何使用到java的地方操作SVG文档。
+    你也可以使用各种Batik模块来在你的应用程序和Applet中来生成，操作和转换你的svg图像。-->
+    <dependency>
+        <groupId>org.apache.xmlgraphics</groupId>
+        <artifactId>batik-ext</artifactId>
+        <version>${batik-ext.version}</version>
+    </dependency>
+
+</dependencies>
+
+</project>

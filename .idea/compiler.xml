@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lisongtao-bean" />
+        <module name="lisongtao-common-util" />
+        <module name="lisongtao-interface" />
+        <module name="lisongtao-manage-service" />
+        <module name="lisongtao-manage-web" />
+        <module name="lisongtao-order-web" />
+        <module name="lisongtao-service-util" />
+        <module name="lisongtao-usermanage" />
+        <module name="lisongtao-web-util" />
+        <module name="listongtao-common-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lisongtao-bean" target="1.8" />
+      <module name="lisongtao-common-util" target="1.8" />
+      <module name="lisongtao-interface" target="1.8" />
+      <module name="lisongtao-manage-service" target="1.8" />
+      <module name="lisongtao-manage-web" target="1.8" />
+      <module name="lisongtao-order-web" target="1.8" />
+      <module name="lisongtao-parent" target="1.8" />
+      <module name="lisongtao-service-util" target="1.8" />
+      <module name="lisongtao-usermanage" target="1.8" />
+      <module name="lisongtao-web-util" target="1.8" />
+      <module name="listongtao-common-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
